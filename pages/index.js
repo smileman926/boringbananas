@@ -1,7 +1,7 @@
 import Head from 'next/head'
 
 export default function Home() {
-
+  //first commit from dev_1
   return (
     <div id="bodyy" className="flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
